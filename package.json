@@ -12,6 +12,7 @@
   "repository": "git@github.com:BlackGlory/pass.git",
   "author": "BlackGlory <woshenmedoubuzhidao@blackglory.me>",
   "license": "MIT",
+  "sideEffects": false,
   "scripts": {
     "lint": "eslint --ext .js,.jsx,.ts,.tsx --quiet src",
     "prepublishOnly": "run-s clean build bundle",
