@@ -31,3 +31,8 @@ because that looks terrible.
 ```ts
 function pass(): void
 ```
+
+### passAsync
+```ts
+function passAsync(): Promise<void>
+```
