@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.1.1](https://github.com/BlackGlory/pass/compare/v1.1.0...v1.1.1) (2023-06-11)
+
+
+### Bug Fixes
+
+* export src ([8295134](https://github.com/BlackGlory/pass/commit/82951349c08dfc19f6c21dedb49350267c893787))
+
 ## [1.1.0](https://github.com/BlackGlory/pass/compare/v1.0.1...v1.1.0) (2022-08-29)
 
 
